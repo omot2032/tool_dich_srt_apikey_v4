@@ -1,0 +1,73 @@
+Glossary Columns: raw_name, translated_name, gender, description
+
+=== CHARACTERS ===
+三才 = Tam Tài [Male]: Lý Tam Tài, đại thần triều đình thời Vạn Lịch
+中贤 = Trung Hiền [Male]: Ngụy Trung Hiền, nhân vật quyền lực trong triều đình được nhắc đến qua các sự kiện lịch sử
+从哲 = Từ Triết [Male]: Phương Từ Triết, đại thần triều đình nhà Minh
+俊 = Tuấn [Male]: Trần Tuấn, thái giám tâm phúc và thân cận bên cạnh hoàng đế Vạn Lịch
+光启 = Quang Khải [Male]: Từ Quang Khải, nhà bác học và quan lại nổi tiếng, sau được Tôn Kế Nghiệp chiêu mộ vào Bộ Công và Thư viện Đông Sâm
+光斗 = Quang Đẩu [Male]: Tả Quang Đẩu, ngự sử phe Đông Lâm, người tích cực dâng sớ hạch tội Tôn Kế Nghiệp
+努尔哈赤 = Nỗ Nhĩ Cáp Xích [Male]: Thủ lĩnh tộc Nữ Chân, người sáng lập nhà Hậu Kim, đối thủ lớn nhất của Minh triều ở Đông Bắc
+向高 = Hướng Cao [Male]: Diệp Hướng Cao, Nội các Thủ phụ của nhà Minh, người đứng đầu triều chính
+孝 = Hiếu [Male]: Hoàng tôn Chu Do Hiếu (Vưu Hiếu), cháu đích tôn của hoàng đế, người được Tôn Kế Nghiệp định hướng tư duy
+崇焕 = Sùng Hoán [Male]: Viên Sùng Hoán, danh tướng chống nhà Thanh được nhắc đến qua lời thoại
+应星 = Ưng Tinh [Male]: Tống Ưng Tinh, nhà khoa học thời nhà Minh, tác giả Thiên Công Khai Vật, được mời làm giáo thụ
+廷勋 = Đình Huân [Male]: Cha của Tôn Kế Nghiệp, giữ chức Ứng Thành Bá kiêm Phò Mã Đô Úy
+弘祖 = Hoằng Tổ [Male]: Từ Hoằng Tổ (Từ Hà Khách), nhà thám hiểm vĩ đại được Tôn Kế Nghiệp chiêu mộ để xây dựng hệ thống bưu cục logistics
+慧月 = Tuệ Nguyệt [Female]: Quách Tuệ Nguyệt, con gái của Vũ Định Hầu Quách Lương, hội trưởng Lợi Trạch Hội
+成方 = Thành Phương [Male]: Lương Thành Phương, tổng quản nội vụ Đông cung, kẻ từng đối đầu và bị Tôn Kế Nghiệp trừng trị
+成梁 = Thành Lương [Male]: Lý Thành Lương, danh tướng lão luyện trấn thủ vùng biên giới Liêu Đông
+振中 = Chấn Trung [Male]: Văn Chấn Trung, sĩ tử từng phản đối Tôn Kế Nghiệp tại thư viện nhưng sau đó gia nhập hoặc chịu khuất phục
+文生 = Văn Sinh [Male]: Thôi Văn Sinh, thái giám hoặc ngự y trong cung đình Vạn Lịch
+月 = Nguyệt [Female]: Diêu Nguyệt, người mẹ quá cố của Tôn Kế Nghiệp, nguyên là Thái Hòa Công Chúa
+王良 = Vương Lương [Male]: Gia đinh trung thành và gắn bó sát cánh cùng Tôn Kế Nghiệp trong mọi hoàn cảnh
+继业 = Kế Nghiệp [Male]: Nhân vật chính xuyên không đến thời nhà Minh, con trai của Tín Thành Bá, nổi tiếng ăn chơi trác táng nhưng có tầm nhìn kinh tế và cải cách tài ba
+良 = Lương [Male]: Vũ Định Hầu Quách Lương, vị tướng quân triều đình, bạn thân của Tín Thành Bá
+良知 = Lương Tri [Male]: Đặng Lương Tri, quan lại triều đình từng phản đối Tôn Kế Nghiệp nhưng sau đó thán phục và quy thuận
+莹莹 = Oánh Oánh [Female]: Hạ Oánh Oánh, thành viên tích cực của Lợi Trạch Hội, sau gia nhập hệ thống logistics
+
+=== TERMS ===
+子母铳 = Tử Mẫu Xung: Loại hỏa khí thời nhà Minh gồm nòng mẹ và đạn con, từng bị lãng phí do quy trình thu hồi sửa chữa rườm rà
+魔方 = Ma Phương: Khối lập phương Rubik được Tôn Kế Nghiệp chế tạo để rèn luyện trí tuệ cho hoàng tôn
+麻将 = Mạt Chược: Trò chơi giải trí được Tôn Kế Nghiệp giới thiệu trong cung đình nhà Minh
+
+=== LOCATIONS ===
+东森书院 = Đông Sâm Thư Viện: Thư viện do Tôn Kế Nghiệp thành lập nhằm truyền bá thực học và khoa học kỹ thuật
+中军都督府 = Trung Quân Đô Đốc Phủ: Một trong Ngũ quân đô đốc phủ, cơ quan quân sự cấp cao của triều đình nhà Minh
+云南 = Vân Nam: Vùng biên ải phía nam nơi có thổ ty và các vấn đề sắc tộc phức tạp
+六顺钱庄 = Lục Thuận Tiền Trang: Tiền trang lớn ở kinh thành nơi gia tộc họ Tôn thế chấp dinh thự
+北平 = Bắc Kinh: Thành phố lớn ở miền bắc nơi gia tộc họ Tôn sinh sống và diễn ra nhiều sự kiện chính trị
+南京 = Nam Kinh: Cố đô phía nam của nhà Minh, nơi có kho tàng và các cơ quan trọng yếu
+永华商号 = Vĩnh Hoa Thương Hào: Thương hiệu thương nhân lớn bậc nhất kinh thành, chuyên kinh doanh bất động sản
+潘家窑 = Phan Gia Diêu: Khu vực ngoại ô kinh thành nơi diễn ra các hoạt động chẩn tai và phát chẩn
+登州 = Đăng Châu: Một địa hạt cảng biển quan trọng nơi có kho vũ khí và quân nhu của triều đình
+辽东 = Liêu Đông: Khu vực biên giới phía đông bắc nhà Minh, nơi đối đầu gay gắt với Nữ Chân
+鸿运赌坊 = Hồng Vận Sòng Bạc: Sòng bạc lớn có thế lực ngầm và quan hệ triều đình nơi Tôn Kế Nghiệp từng nợ tiền
+
+=== SURNAMES ===
+叶 = Diệp
+夏 = Hạ
+姚 = Diêu
+孙 = Tôn
+宋 = Tống
+尤 = Vưu
+崔 = Thôi
+左 = Tả
+徐 = Từ
+文 = Văn
+方 = Phương
+李 = Lý
+王 = Vương
+邓 = Đặng
+郭 = Quách
+陈 = Trần
+魏 = Ngụy
+
+=== TITLES ===
+伯爵 = Bá Tước [Male]: Tước vị quý tộc cao cấp trong hệ thống tước vị thế tập của nhà Minh
+侍郎 = Thị Lang [Male]: Chức quan phó đứng đầu một bộ trong lục bộ triều đình
+指挥使 = Chỉ Huy Sử [Male]: Quan võ cao cấp nắm giữ vệ sở quân sự địa phương
+锦衣卫 = Cẩm Y Vệ [Male]: Cơ quan mật thám và cảnh sát đặc nhiệm trực thuộc hoàng đế nhà Minh
+阁老 = Các Lão [Male]: Danh hiệu tôn kính dành cho các vị đại thần trong Nội Các
+顺天府 = Thuận Thiên Phủ [Male]: Quan đứng đầu cơ quan hành chính Thuận Thiên Phủ
+驸马都尉 = Phò Mã Đô Úy [Male]: Chức quan phong cho phò mã, chồng của công chúa hoàng gia

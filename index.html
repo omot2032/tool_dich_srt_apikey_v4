@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function() {
+        try {
+          var origFetch = window.fetch;
+          var currentFetch = origFetch;
+          Object.defineProperty(window, 'fetch', {
+            get: function() { return currentFetch; },
+            set: function(fn) { currentFetch = fn; },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {
+          // ignore
+        }
+      })();
+    </script>
+    <title>Remix Truyện AI Studio - Tool Dịch SRT Chuẩn Mốc Thời Gian</title>
+    <meta name="description" content="Công cụ dịch file phụ đề SRT bảo toàn 100% mốc thời gian (timecode) chính xác, xoay vòng đa API Key Gemini song song." />
+    <meta property="og:title" content="Remix Truyện AI Studio - Tool Dịch SRT Chuẩn Mốc Thời Gian" />
+    <meta property="og:description" content="Công cụ dịch file phụ đề SRT bảo toàn 100% mốc thời gian (timecode) chính xác, xoay vòng đa API Key Gemini song song." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

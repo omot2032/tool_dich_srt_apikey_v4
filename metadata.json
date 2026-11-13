@@ -1,0 +1,8 @@
+{
+  "name": "Remix Truyện AI Studio - Tool Dịch SRT",
+  "description": "Công cụ dịch file phụ đề SRT bảo toàn 100% mốc thời gian (timecode) chính xác, xoay vòng đa API Key Gemini song song",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
